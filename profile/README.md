@@ -1,9 +1,3 @@
-## Hi there 👋
-
-
-Status of each project across delivery channels. Legend: ✅ done · ◑ wired (capability
-in place, not yet produced) · ⬜ not started.
-
 | Project | Repo | npm | Skills | MCP | SBOM | Docker |
 |---------|:----:|:---:|:------:|:---:|:----:|:------:|
 | fim-portal-cli | ✅ | ✅ `0.0.6` | ✅ 4 | ⬜ | ✅ | ⬜ |
