@@ -4,13 +4,14 @@
 | abgeordnetenwatch-cli | ✅ | ✅ `0.0.3` | ✅ 3 | ⬜ | ✅ | ⬜ |
 | ausbildungssuche-cli | ✅ | ✅ `0.0.2` | ✅ 3 | ⬜ | ✅ | ⬜ |
 | autobahn-cli | ✅ | ✅ `0.0.4` | ✅ 3 | ⬜ | ✅ | ⬜ |
-| bundeshaushalt-cli | ✅ | ✅ `0.0.2` | ✅ 3 | ⬜ | ✅ | ⬜ |
+| bundeshaushalt-cli | ✅ | ✅ `0.0.3` | ✅ 3 | ⬜ | ✅ | ⬜ |
 | dip-bundestag-cli | ✅ | ✅ `0.0.3` | ✅ 3 | ⬜ | ✅ | ⬜ |
-| dwd-cli | ✅ | ✅ `0.0.3` | ✅ 4 | ⬜ | ✅ | ⬜ |
-| fit-connect-cli | ⬜ | ⬜ | ◑ 3 | ⬜ | ⬜ | ⬜ |
+| dwd-cli | ✅ | ✅ `0.0.4` | ✅ 4 | ⬜ | ✅ | ⬜ |
+| fit-connect-cli | ✅ | ✅ `0.0.2` | ✅ 3 | ⬜ | ✅ | ⬜ |
+| fragdenstaat-cli | ✅ | ✅ `0.0.3` | ✅ 4 | ⬜ | ✅ | ⬜ |
 | govdata-cli | ✅ | ✅ `0.0.3` | ✅ 3 | ⬜ | ✅ | ⬜ |
 | jobsuche-cli | ✅ | ✅ `0.0.2` | ✅ 3 | ⬜ | ✅ | ⬜ |
-| lobbyregister-cli | ✅ | ✅ `0.0.3` | ✅ 5 | ⬜ | ✅ | ⬜ |
+| lobbyregister-cli | ✅ | ✅ `0.0.4` | ✅ 5 | ⬜ | ✅ | ⬜ |
 | luftqualitaet-cli | ✅ | ✅ `0.0.3` | ✅ 3 | ⬜ | ✅ | ⬜ |
 | nina-warnungen-cli | ✅ | ✅ `0.0.2` | ✅ 3 | ⬜ | ✅ | ⬜ |
 | pegel-online-cli | ✅ | ✅ `0.0.2` | ✅ 4 | ⬜ | ✅ | ⬜ |
